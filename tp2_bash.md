@@ -1,4 +1,4 @@
-**TP 2 Bash <br>
+**TP 2 Bash   
 Exercice 1. Variable d'environnement**
 
 1) Bash se trouve dans le dossier /bin
@@ -27,6 +27,10 @@ Exercice 1. Variable d'environnement**
 
 **Exercice 5**
 
+<img width="729" alt="image" src="https://user-images.githubusercontent.com/97438358/194745663-397a89ab-0641-48b3-b3a2-2f181a411b15.png">
+
 **Exercice 6**
+
+<img width="542" alt="image" src="https://user-images.githubusercontent.com/97438358/194747151-7f33c39f-7b34-4ffc-9429-55d68f93628e.png">
 
 **Exercice 7**
