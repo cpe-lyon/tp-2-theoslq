@@ -25,12 +25,14 @@ Exercice 1. Variable d'environnement**
 
 **Exercice 4**
 
+<img width="743" alt="image" src="https://user-images.githubusercontent.com/97438358/194754306-cf2ba651-ccb9-43e5-97a1-df1bf71acd0e.png">  
+
 **Exercice 5**
 
 <img width="729" alt="image" src="https://user-images.githubusercontent.com/97438358/194745663-397a89ab-0641-48b3-b3a2-2f181a411b15.png">
 
 **Exercice 6**
 
-<img width="542" alt="image" src="https://user-images.githubusercontent.com/97438358/194747151-7f33c39f-7b34-4ffc-9429-55d68f93628e.png">
+<img width="713" alt="image" src="https://user-images.githubusercontent.com/97438358/194754062-511521ec-dad8-4fa2-9298-9f700874172f.png">  
 
 **Exercice 7**
