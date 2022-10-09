@@ -36,3 +36,5 @@ Exercice 1. Variable d'environnement**
 <img width="713" alt="image" src="https://user-images.githubusercontent.com/97438358/194754062-511521ec-dad8-4fa2-9298-9f700874172f.png">  
 
 **Exercice 7**
+
+1. <img width="734" alt="image" src="https://user-images.githubusercontent.com/97438358/194756581-3b4c48c7-dbb9-4dc3-bdca-2d3413931995.png">  
